@@ -1,0 +1,19 @@
+FOSB  {'hugo': '3797', 'name': 'FBJ murine osteosarcoma viral oncogene homolog B', 'occurrence': '426', 'paperNum': '9', 'matchedTerms': ['FosB-specific', 'FOSB', 'fosb', 'Fos-B', 'fosB', 'Fosb'], 'docs': ['9622645', '10080384', '10925151', '16633904', '18207134', '20404047', '23303048', '24185030', '24771617']}
+
+
+MECP2  {'hugo': '6990', 'name': 'methyl CpG binding protein 2 (Rett syndrome)', 'occurrence': '1528', 'paperNum': '84', 'matchedTerms': ['methyl cpg binding protein 2', 'methyl cpg binding protein 2 rett syndrome', 'methyl cpg binding protein 2 rett syndrome ', 'MeCP2-knockdown', 'MeCP2-binding', 'RTT--during', 'MeCP2-mediated', 'MeCP2-replete', 'MECP2', 'mecp2-related', 'MeCP2-positive', 'Mecp2', 'RTT-associated', 'MECP2-related', 'MeCP2-knockout', 'MECP2-induced', 'PPM-X', 'MeCP2-deleted', 'MeCP2-mutant', 'MECP2-deficient', 'MeCP2-dependent', 'RTT-like', 'hMeCP2', 'RTT-causing', 'MeCP2-suppressed', 'MeCP2-negative', 'Mecp2-deficient', 'Mecp2-mutant', 'MeCP2-targeted', 'MECP2-associated', 'RTT-derived', 'MeCP2-deficient', 'MECP2-binding'], 'docs': ['11005791', '11719274', '12081720', '12751467', '12768363', '12788036', '14618241', '14649550', '15345242', '15362175', '15470359', '15519245', '15558314', '15977646', '16280193', '16399702', '17028371', '17046689', '17275285', '17289941', '17848915', '17965589', '18058824', '18329113', '18394707', '18536702', '18635022', '18674649', '18717648', '18923513', '19057379', '19132145', '19195802', '19208815', '19386901', '19442733', '19598002', '19628041', '19796712', '19806373', '19812320', '19833297', '20025874', '20035514', '20163734', '20392956', '20452318', '20951500', '21074045', '21124738', '21212100', '21316312', '21453447', '21575601', '21725066', '21821449', '21970827', '21982370', '22138506', '22231481', '22363746', '22427975', '22586411', '22810393', '22815516', '22847207', '23216574', '23348913', '23591336', '23832106', '24055857', '24336718', '24458799', '24472844', '24605086', '24613463', '24636259', '24917201', '25064045', '25088363', '25299635', '25385366', '25497735', '26471937']}
+
+
+FOXP2  {'hugo': '13875', 'name': 'forkhead box P2', 'occurrence': '260', 'paperNum': '6', 'matchedTerms': ['forkhead box p2', 'FOXP2', 'FoxP2', 'Foxp2'], 'docs': ['16280193', '17848915', '18248790', '22434823', '22736078', '24179158']}
+
+
+FOXP1  {'hugo': '3823', 'name': 'forkhead box P1', 'occurrence': '198', 'paperNum': '1', 'matchedTerms': ['FOXP1', 'Foxp1'], 'docs': ['22736078']}
+
+
+RAI1  {'hugo': '9834', 'name': 'retinoic acid induced 1', 'occurrence': '50', 'paperNum': '3', 'matchedTerms': ['retinoic acid induced 1', 'Rai1', 'SMS', 'RAI1', 'SMS-causing', 'SMS-like'], 'docs': ['18923513', '19752160', '24055857']}
+
+
+SLC12A6  {'hugo': '10914', 'name': 'solute carrier family 12 (potassium/chloride transporters), member 6', 'occurrence': '77', 'paperNum': '3', 'matchedTerms': ['KCC3a', 'KCC3b', 'Slc12a6', 'SLC12A6', 'ACCPN', 'KCC3'], 'docs': ['10187864', '18536702', '20637866']}
+
+
+FOLH1  {'hugo': '3788', 'name': 'folate hydrolase (prostate-specific membrane antigen) 1', 'occurrence': '172', 'paperNum': '2', 'matchedTerms': ['glutamate carboxypeptidase ii', 'prostate specific membrane antigen', 'GCPII-positive', 'GCPII-like', 'FOLH1', 'GCPII-homologs', 'FGCP', 'PSMA-like'], 'docs': ['17150306', '22310383']}
